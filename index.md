@@ -5,10 +5,10 @@
 
 
 # Career
-- 2012.4 - 2016.3 : Kyoto Institute of Technology, Information Science
-- 2016.4 - 2018.3 : Graduate School of Kyoto Institute of Technology, Information Science（Master’s Program）
-- 2018.4 - 2023.3 : OMRON Social Solutions Co. Ltd., Researcher
 - 2023.4 - : ZENKIGEN Inc., Data scientist (seconded from OMRON Social Solutions)
+- 2018.4 - 2023.3 : OMRON Social Solutions Co. Ltd., Researcher
+- 2016.4 - 2018.3 : Graduate School of Kyoto Institute of Technology, Information Science（Master’s Program）
+- 2012.4 - 2016.3 : Kyoto Institute of Technology, Information Science
 
 
 # Project Experience with News Coverage
@@ -51,7 +51,7 @@
 
 
 # Reading Circle
-- CoRL2020論文詠み会, "MuGNet: Multi-Resolution Graph Neural Network for Large-Scale Pointcloud Segmentation", 2020/12/06 ([connpass](https://majime-ni-study.connpass.com/event/193269/)) ([slide](https://speakerdeck.com/red_tea/corl2020lun-wen-yong-mihui-multi-resolution-graph-neural-network-for-large-scale-pointcloud-segmentation))([paper](https://openreview.net/forum?id=Hyfn2jCcKm))
+- CoRL2020論文詠み会, "MuGNet: Multi-Resolution Graph Neural Network for Large-Scale Pointcloud Segmentation", 2020/12/06 ([connpass](https://majime-ni-study.connpass.com/event/193269/)) ([slide](https://speakerdeck.com/red_tea/corl2020lun-wen-yong-mihui-multi-resolution-graph-neural-network-for-large-scale-pointcloud-segmentation))([paper](https://arxiv.org/abs/2009.08924))
 - ICLR 2019 読み会 in 京都, "Solving the Rubik's Cube with Approximate Policy Iteration", 2019/06/02 ([connpass](https://connpass.com/event/127970/)) ([slide](https://speakerdeck.com/red_tea/iclr2019du-mihui-solving-the-rubiks-cube-with-approximate-policy-iteration)) ([paper](https://openreview.net/forum?id=Hyfn2jCcKm))
 
 
