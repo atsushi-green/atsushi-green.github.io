@@ -23,32 +23,35 @@
 <img height="120" alt="predicting traffic jam by GCN" src="https://github.com/atsushi-green/atsushi-green.github.io/blob/main/assets/gcn_pred.png?raw=true"> <img height="120" alt="predicting train congestion" src="https://github.com/atsushi-green/atsushi-green.github.io/blob/main/assets/train_congestion.png?raw=true">
 
 ## Peer-Reviewed Publications
-- Atsushi Hirota, Nguyen Huy Tiep, Le Van Khanh, & Natsuki Oka, Classifying helmeted and non-helmeted motorcyclists. In Advances in Neural Networks-ISNN 2017: 14th International Symposium, ISNN 2017, Sapporo, Hakodate, and Muroran, Hokkaido, Japan, June 21–26, 2017, Proceedings, Part I 14 (pp. 81-86). Springer International Publishing, 2017.
-- 廣田敦士, 市川淳, 早川博章, 西崎友規子, 岡夏樹, 権威のある姿勢が将来得られる報酬の割り引かれる価値に与える影響, 認知科学 第26巻2号（2019年6月1日発行）
+- <u>Atsushi Hirota</u>, Nguyen Huy Tiep, Le Van Khanh, & Natsuki Oka, Classifying helmeted and non-helmeted motorcyclists. In Advances in Neural Networks-ISNN 2017: 14th International Symposium, ISNN 2017, Sapporo, Hakodate, and Muroran, Hokkaido, Japan, June 21–26, 2017, Proceedings, Part I 14 (pp. 81-86). Springer International Publishing, 2017.
+- <u>廣田敦士</u>, 市川淳, 早川博章, 西崎友規子, 岡夏樹, 権威のある姿勢が将来得られる報酬の割り引かれる価値に与える影響, 認知科学 第26巻2号（2019年6月1日発行）
 
 ## Non-Peer-Reviewed Publications
-- 廣田敦士, 幡山五郎, 岡部浩史, 西本昌平, 上田浩司. 改札機通過データを利用した列車混雑予測システムの開発. 日本鉄道技術協会特定部会日本鉄道サイバネティクス協議会. quarterly report 26 (3), 32-37, 2021.
-- 寺前智文、向井梨紗、西海能史、鈴木健太郎、小島悠紀子、廣田敦士、幡山五郎、影本義明、櫻木伸也、阿部敦, Graph Convolutional Networks を用いた阪神高速道路における交通渋滞発生予測. 第18回ITSシンポジウム, 2020.
+- <u>廣田敦士</u>, 幡山五郎, 岡部浩史, 西本昌平, 上田浩司. 改札機通過データを利用した列車混雑予測システムの開発. 日本鉄道技術協会特定部会日本鉄道サイバネティクス協議会. quarterly report 26 (3), 32-37, 2021.
+- 寺前智文、向井梨紗、西海能史、鈴木健太郎、小島悠紀子、<u>廣田敦士</u>、幡山五郎、影本義明、櫻木伸也、阿部敦, Graph Convolutional Networks を用いた阪神高速道路における交通渋滞発生予測. 第18回ITSシンポジウム, 2020.
 <!-- https://www.its-jp.org/wp-content/uploads/2020/12/2020-3-A-08.pdf -->
 <!-- https://www.its-jp.org/wp-content/uploads/2020/12/2020-3-A-08_ppt.pdf -->
-- 廣田敦士, 岡夏樹, 荒木雅弘, 田中一晶. 学習データセットを分けた seqGAN による俳句生成. 言語処理学会 第24回年次大会 発表論文集, 1292-1295, 2018.
-- Atsushi Hirota, Shogo Furuhashi, Takashi Uchida, Yusuke Suetsugu, Eri Takashima, Toshimasa Takai, Misa Yoshizaki, Hirofumi Hayakawa, Yukiko Nishizaki, and Natsuki Oka, Keep Your Chin Up When You Want to Believe in Future Rewards: The Effect of Facial Direction on Discount Factors, poster presentation at the 3rd International Conference on Human-Agent Interaction (HAI 2015) to be held in Daegu, Republic of Korea, October 21-24, 2015. http://dl.acm.org/citation.cfm?doid=2814940.2814973
+- <u>廣田敦士</u>, 岡夏樹, 荒木雅弘, 田中一晶. 学習データセットを分けた seqGAN による俳句生成. 言語処理学会 第24回年次大会 発表論文集, 1292-1295, 2018.
+- <u>Atsushi Hirota</u>, Shogo Furuhashi, Takashi Uchida, Yusuke Suetsugu, Eri Takashima, Toshimasa Takai, Misa Yoshizaki, Hirofumi Hayakawa, Yukiko Nishizaki, and Natsuki Oka, Keep Your Chin Up When You Want to Believe in Future Rewards: The Effect of Facial Direction on Discount Factors, poster presentation at the 3rd International Conference on Human-Agent Interaction (HAI 2015) to be held in Daegu, Republic of Korea, October 21-24, 2015. http://dl.acm.org/citation.cfm?doid=2814940.2814973
 
 
 # Industrial Property Rights
-- [道路状況予測用重みパラメータ設定装置、道路状況予測用重みパラメータ設定方法、および、道路状況予測用重みパラメータ設定プログラム](https://patents.google.com/patent/JP2021140294A): 廣田敦士, 幡山五郎, 特許第7388242号(P7388242)
-- [旅客流動混雑予測装置、旅客流動混雑予測方法および旅客流動混雑予測プログラム](https://patents.google.com/patent/JP2024053982A): 廣田敦士, 伊澤茉莉花
-- [移動目的判定装置、移動目的判定方法および移動目的判定プログラム](https://patents.google.com/patent/JP2024041464A): 廣田敦士, 伊澤茉莉花, 上田浩司
-- [旅客流動予測装置および旅客流動予測方法、旅客流動予測プログラム](https://patents.google.com/patent/JP2023181675A): 廣田敦士, 上田浩司
-- [鉄道収益推定装置、鉄道収益推定方法および鉄道収益推定プログラム](https://patents.google.com/patent/JP2023117616A): 廣田敦士, 上田浩司, 井上浩輝, 砂金亮, 伊澤茉莉花
-- [列車ダイヤシミュレーション装置、列車ダイヤシミュレーション方法および列車ダイヤシミュレーションプログラム](https://patents.google.com/patent/JP2023087335A): 廣田敦士,幡山五郎
-- [列車ダイヤシミュレーション装置、列車ダイヤシミュレーション方法および列車ダイヤシミュレーションプログラム](https://patents.google.com/patent/JP2023086380A): 廣田敦士,幡山五郎, 上田浩司
-- [旅客流動予測装置、旅客流動予測方法および旅客流動予測プログラム](https://patents.google.com/patent/JP2022069860A): 廣田敦士, 幡山五郎, 櫻木伸也
-- [安全運転判定装置、安全運転支援システム、安全運転支援方法および安全運転支援プログラム](https://patents.google.com/patent/JP2022034425A): 萩原祥行, 塚本哲也, 廣田敦士, 宮本寛之
-- [行動推定装置、行動推定方法、および行動推定プログラム](https://patents.google.com/patent/JP2021163197A): 久米田晴香, 塚本哲也, 廣田敦士, 松井雅宏, 谷欣哉
-- [業務報告作成装置、業務報告作成方法、および業務報告作成プログラム](https://patents.google.com/patent/JP2021163196A): 久米田晴香, 塚本哲也, 廣田敦士, 松井雅宏, 谷欣哉
-
-
+- [道路状況予測用重みパラメータ設定装置、道路状況予測用重みパラメータ設定方法、および、道路状況予測用重みパラメータ設定プログラム](https://patents.google.com/patent/JP2021140294A): <u>廣田敦士</u>, 幡山五郎, 特許第7388242号(P7388242)
+- [旅客流動混雑予測装置、旅客流動混雑予測方法および旅客流動混雑予測プログラム](https://patents.google.com/patent/JP2024053982A): <u>廣田敦士</u>, 伊澤茉莉花
+- [移動目的判定装置、移動目的判定方法および移動目的判定プログラム](https://patents.google.com/patent/JP2024041464A): <u>廣田敦士</u>, 伊澤茉莉花, 上田浩司
+- [旅客流動予測装置および旅客流動予測方法、旅客流動予測プログラム](https://patents.google.com/patent/JP2023181675A): <u>廣田敦士</u>, 上田浩司
+- [鉄道収益推定装置、鉄道収益推定方法および鉄道収益推定プログラム](https://patents.google.com/patent/JP2023117616A): <u>廣田敦士</u>, 上田浩司, 井上浩輝, 砂金亮, 伊澤茉莉花
+- [列車ダイヤシミュレーション装置、列車ダイヤシミュレーション方法および列車ダイヤシミュレーションプログラム](https://patents.google.com/patent/JP2023087335A): <u>廣田敦士</u>,幡山五郎
+- [列車ダイヤシミュレーション装置、列車ダイヤシミュレーション方法および列車ダイヤシミュレーションプログラム](https://patents.google.com/patent/JP2023086380A): <u>廣田敦士</u>,幡山五郎, 上田浩司
+- [旅客流動予測装置、旅客流動予測方法および旅客流動予測プログラム](https://patents.google.com/patent/JP2022069860A): <u>廣田敦士</u>, 幡山五郎, 櫻木伸也
+- [安全運転判定装置、安全運転支援システム、安全運転支援方法および安全運転支援プログラム](https://patents.google.com/patent/JP2022034425A): 萩原祥行, 塚本哲也, <u>廣田敦士</u>, 宮本寛之
+- [行動推定装置、行動推定方法、および行動推定プログラム](https://patents.google.com/patent/JP2021163197A): 久米田晴香, 塚本哲也, <u>廣田敦士</u>, 松井雅宏, 谷欣哉
+- [業務報告作成装置、業務報告作成方法、および業務報告作成プログラム](https://patents.google.com/patent/JP2021163196A): 久米田晴香, 塚本哲也, <u>廣田敦士</u>, 松井雅宏, 谷欣哉
+- [意匠登録1605526](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2017-023303/30/ja): 櫛勝彦, 岡夏樹, 小坂諒, 田原千晴, 廣部萌, 篠原由美子, <u>廣田敦士</u>, 山内真樹, 藤原菜々美
+- [意匠登録1605525](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2017-023302/30/ja): 櫛勝彦, 岡夏樹, 小坂諒, 田原千晴, 廣部萌, 篠原由美子, <u>廣田敦士</u>, 山内真樹, 藤原菜々美
+- [意匠登録1605524](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2017-023301/30/ja): 櫛勝彦, 岡夏樹, 小坂諒, 田原千晴, 廣部萌, 篠原由美子, <u>廣田敦士</u>, 山内真樹, 藤原菜々美
+- [意匠登録1605523](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2017-023300/30/ja): 櫛勝彦, 岡夏樹, 小坂諒, 田原千晴, 廣部萌, 篠原由美子, <u>廣田敦士</u>, 山内真樹, 藤原菜々美
+- [意匠登録1605522](https://www.j-platpat.inpit.go.jp/c1801/DE/JP-2017-023299/30/ja): 櫛勝彦, 岡夏樹, 小坂諒, 田原千晴, 廣部萌, 篠原由美子, <u>廣田敦士</u>, 山内真樹, 藤原菜々美
 
 # Reading Circle
 - CoRL2020論文詠み会, "MuGNet: Multi-Resolution Graph Neural Network for Large-Scale Pointcloud Segmentation", 2020/12/06 ([connpass](https://majime-ni-study.connpass.com/event/193269/)) ([slide](https://speakerdeck.com/red_tea/corl2020lun-wen-yong-mihui-multi-resolution-graph-neural-network-for-large-scale-pointcloud-segmentation))([paper](https://arxiv.org/abs/2009.08924))
